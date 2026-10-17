@@ -1,0 +1,23 @@
+electric vehicles gaining global popularity lately efficient battery
+thermal management systems btms gaining traction research community
+phase change material pcm based btms attractive solution high energy
+density isothermal energy exchange pure pcm drawbacks like low thermal
+conductivity volume expansion leakage phase change shape stable
+composite pcm sscpcm resolves drawbacks expensive solution high cost
+conventional supporting materials biochar bc based sscpcm developed
+study cheap sustainable solution btms characterization studies carried
+combination pure pcm myristyl alcohol biochar various loadings weight
+using fourier transform infrared analysis diffraction xrd analysis
+scanning electron microscopy sem particle size analysis psa
+differential scanning calorimetry dsc thermogravimetric analysis tga
+shape stability studies reveal pcm minimum biochar shape stable
+thermal conductivities effusivities pure composite pcms studied
+enhancement thermal conductivity studied addition carbon nanotubes
+mwcnt concentrations xrd results reveal interaction biochar mwcnt pure
+pcm purely physical chemically stable degree supercooling reduced
+mwcnt compared pure pcm heating rate respectively thermal conductivity
+effusivity mwcnt higher pure pcm respectively tga results reveal pcms
+thermal stability adversely affected addition bc mwcnt furthermore
+anfis model developed predict heat flow values pcm samples generalized
+input linear output membership function best suitable coefficient
+determination
